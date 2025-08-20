@@ -6,6 +6,9 @@
 int main()
 {
     std::cout << "Hello World!\n";
+    for (int i = 0; i < 10; i++) {
+        std::cout << "Me cago en luis " << i + 1 << " veces" << std::endl;
+	}
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
